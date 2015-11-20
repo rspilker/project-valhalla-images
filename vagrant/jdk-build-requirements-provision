@@ -1,0 +1,2 @@
+# Install prerequisites
+sudo apt-get update && sudo apt-get install mercurial openjdk-8-jdk libX11-dev libxext-dev libxrender-dev libxtst-dev libxt-dev libcups2-dev libfreetype6-dev libasound2-dev -y
